@@ -1,0 +1,41 @@
+.div1{width:auto%;
+background-color: skyblue;
+text-align: left;
+float: right;
+color: white;
+padding-right:80px;
+padding-left:px;
+padding-bottom: 0px;
+margin-bottom:45px;
+}
+
+.div2 {
+  width: auto%;
+  background-color: skyblue;
+  text-align: left;
+  float: right;
+  color: white;
+  padding-right: 20px;
+  padding-left: px;
+  padding-bottom: 0px;
+  margin-bottom: 100%;
+}
+
+.div3 {
+  width:auto%;
+  background-color: skyblue;
+  text-align: left;
+  float: right;
+  color: white;
+  padding-right: 70px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 25px;
+}
+
+.box{margin-bottom: 20px;
+  
+}
+.box1{
+  padding-bottom: 100px;
+}
